@@ -1,4 +1,4 @@
-# The Nexus Manifesto
+# [The Nexus Manifesto](https://docs.google.com/document/d/1A5x33bMFQllF1aLbdljKOhJnWmKfHsWsSzXfoy0OM3k/edit?usp=sharing)
 
 **By Brendan Werth**
 
